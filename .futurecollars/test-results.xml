@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" time="2.634">
+  <testsuite name="Funkcja createList" errors="0" failures="0" skipped="0" timestamp="2021-04-20T16:15:25" time="1.514" tests="4">
+    <testcase classname="Funkcja createList powinna zwrócić element HTML" name="Funkcja createList powinna zwrócić element HTML" time="0.005">
+    </testcase>
+    <testcase classname="Funkcja createList powinna zwrócić listę z atrybutem id ustawionym na list" name="Funkcja createList powinna zwrócić listę z atrybutem id ustawionym na list" time="0.002">
+    </testcase>
+    <testcase classname="Funkcja createList powinna utworzyć listę w elemencie &lt;body&gt;" name="Funkcja createList powinna utworzyć listę w elemencie &lt;body&gt;" time="0.006">
+    </testcase>
+    <testcase classname="Funkcja createList powinna utworzyć listę z trzema elementami &lt;li&gt;" name="Funkcja createList powinna utworzyć listę z trzema elementami &lt;li&gt;" time="0.003">
+    </testcase>
+  </testsuite>
+</testsuites>
